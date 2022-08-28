@@ -40,7 +40,6 @@ function Feed() {
     return (
         <div
             style={{
-                height: "100vh",
                 display: "flex",
                 flexDirection: "row",
                 flexWrap: "wrap",
